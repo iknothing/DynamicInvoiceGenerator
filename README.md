@@ -26,12 +26,6 @@ This script generates an invoice using custom JSON data. You can customize the i
 
 6. Run the following command to generate the invoice:
 
-    `python generate_invoice.py`
-
-This will generate an HTML invoice file named `invoice.html`. You can open this file in a web browser to view the invoice.
-
-7. To generate a PDF invoice, run the following command:
-
-    `pdfkit invoice.html invoice.pdf`
+    `python final.py`
 
 This will generate a PDF invoice file named `invoice.pdf`. You can open this file in a PDF reader to view the invoice.
